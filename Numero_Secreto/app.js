@@ -1,9 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD:app.js
 let numeroLimite = 100;
-=======
-let numeroLimite = 10;
->>>>>>> parent of 69e5168 (Alterado para para 1000):Numero_Secreto/app.js
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
